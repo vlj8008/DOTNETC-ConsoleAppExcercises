@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\bin\Debug\DateTimeSub.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\bin\Debug\DateTimeSub.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\bin\Debug\DateTimeSub.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\bin\Debug\BranchingSubmission.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BranchingSubmission\BranchingSubmission\obj\Debug\BranchingSubmission.csproj.AssemblyReference.cache

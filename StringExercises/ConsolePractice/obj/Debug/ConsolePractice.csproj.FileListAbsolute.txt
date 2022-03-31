@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.pdb

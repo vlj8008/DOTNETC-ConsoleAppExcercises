@@ -1,0 +1,14 @@
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\bin\Debug\IterationTwo.exe.config
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\bin\Debug\IterationTwo.exe
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\bin\Debug\IterationTwo.pdb
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\obj\Debug\IterationTwo.csproj.AssemblyReference.cache
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\obj\Debug\IterationTwo.csproj.CoreCompileInputs.cache
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\obj\Debug\IterationTwo.exe
+C:\Users\vicky\source\repos\IterationTwo\IterationTwo\obj\Debug\IterationTwo.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\obj\Debug\IterationTwo.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\obj\Debug\IterationTwo.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\obj\Debug\IterationTwo.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\obj\Debug\IterationTwo.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\bin\Debug\IterationTwo.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\bin\Debug\IterationTwo.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationTwo\IterationTwo\bin\Debug\IterationTwo.pdb

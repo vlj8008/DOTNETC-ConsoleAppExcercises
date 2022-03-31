@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.pdb

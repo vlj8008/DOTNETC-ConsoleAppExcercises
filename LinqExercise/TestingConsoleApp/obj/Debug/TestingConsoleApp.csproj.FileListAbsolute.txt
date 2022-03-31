@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\bin\Debug\TestingConsoleApp.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\bin\Debug\TestingConsoleApp.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\bin\Debug\TestingConsoleApp.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\obj\Debug\TestingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\obj\Debug\TestingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\obj\Debug\TestingConsoleApp.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\TestingConsoleApp\TestingConsoleApp\obj\Debug\TestingConsoleApp.pdb

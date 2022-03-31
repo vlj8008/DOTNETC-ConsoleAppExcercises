@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\bin\Debug\ConsoleAppCar.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\bin\Debug\ConsoleAppCar.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\bin\Debug\ConsoleAppCar.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\obj\Debug\ConsoleAppCar.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\obj\Debug\ConsoleAppCar.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\obj\Debug\ConsoleAppCar.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppCar\ConsoleAppCar\obj\Debug\ConsoleAppCar.pdb

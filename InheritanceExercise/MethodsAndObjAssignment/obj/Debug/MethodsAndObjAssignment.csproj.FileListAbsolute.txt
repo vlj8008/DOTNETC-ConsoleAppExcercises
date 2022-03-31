@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\obj\Debug\MethodsAndObjAssignment.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\obj\Debug\MethodsAndObjAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\bin\Debug\MethodsAndObjAssignment.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\bin\Debug\MethodsAndObjAssignment.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\bin\Debug\MethodsAndObjAssignment.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\obj\Debug\MethodsAndObjAssignment.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsAndObjAssignment\MethodsAndObjAssignment\obj\Debug\MethodsAndObjAssignment.pdb

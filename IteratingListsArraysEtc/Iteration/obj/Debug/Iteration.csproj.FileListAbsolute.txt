@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.pdb

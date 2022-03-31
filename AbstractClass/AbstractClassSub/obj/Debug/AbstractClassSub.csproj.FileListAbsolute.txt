@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\bin\Debug\AbstractClassSub.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\bin\Debug\AbstractClassSub.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\bin\Debug\AbstractClassSub.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.pdb

@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\Structs\Structs\obj\Debug\Structs.pdb

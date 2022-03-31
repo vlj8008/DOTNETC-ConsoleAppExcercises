@@ -1,0 +1,7 @@
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\bin\Debug\BooleanLogicDrills.exe.config
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\bin\Debug\BooleanLogicDrills.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\bin\Debug\BooleanLogicDrills.pdb
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\obj\Debug\BooleanLogicDrills.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\obj\Debug\BooleanLogicDrills.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\obj\Debug\BooleanLogicDrills.exe
+C:\Users\vicky\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicDrills\BooleanLogicDrills\obj\Debug\BooleanLogicDrills.pdb
